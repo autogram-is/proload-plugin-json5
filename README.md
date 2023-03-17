@@ -1,4 +1,4 @@
-# `@proload/plugin-json5`
+# `proload-plugin-json5`
 
 Enables the loading of `[namespace].config.json5` files using [`@proload/core`](https://github.com/natemoo-re/proload).
 
