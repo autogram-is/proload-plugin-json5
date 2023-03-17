@@ -31,6 +31,6 @@
     "url": "https://github.com/natemoo-re/proload/issues"
   },
   "dependencies": {
-    "proload-json5-register": "^0.1.0"
+    "proload-json5-register": "autogram-is/proload-json5-register"
   }
 }
