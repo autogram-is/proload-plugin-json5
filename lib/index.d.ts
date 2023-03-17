@@ -1,5 +1,5 @@
 import { Plugin } from '@proload/core';
 
-declare const jsonPlugin: Plugin;
+declare const json5Plugin: Plugin;
 
-export default jsonPlugin;
+export default json5Plugin;
